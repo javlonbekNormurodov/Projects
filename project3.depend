@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635338637 source:/home/javlon/Documents/NajotTalim/git/project3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
